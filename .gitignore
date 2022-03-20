@@ -32,8 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
-### Eclipse ###
+### arquivo original ###
 .exCourse
+### material de curso ###
 .matCourse
 
 
